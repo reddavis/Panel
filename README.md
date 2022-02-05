@@ -126,7 +126,3 @@ Check out some of my other libraries:
 - [RedUx](https://github.com/reddavis/RedUx) - A super simple Swift implementation of the redux pattern making use of Swift 5.5's new async await API's.
 - [Kyu](https://github.com/reddavis/Kyu) - A persistent queue system in Swift.
 - [FloatingLabelTextFieldStyle](https://github.com/reddavis/FloatingLabelTextFieldStyle) - A floating label style for SwiftUI's TextField.
-
-## License
-
-Whatevs.
